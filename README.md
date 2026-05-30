@@ -1,5 +1,3 @@
-# Hi, I'm Chris Lawrence 👋
-
 🛰️ Passionate about **embedded software & firmware** for aerospace applications  
 📍 New Zealand  
 
