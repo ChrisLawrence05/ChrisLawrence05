@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-hazel-chi-76.vercel.app/api?username=ChrisLawrence05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-hazel-chi-76.vercel.app/api?username=ChrisLawrence05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true)
 
 ---
 
